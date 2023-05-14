@@ -1,0 +1,5 @@
+django
+gunicorn
+whitenoise
+django-admin-berry
+django-api-generator
